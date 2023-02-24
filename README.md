@@ -7,3 +7,9 @@
 		<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 	</a>
 </div>
+### About me
+- 🌱 I’m currently learning **Python, C++**
+- 📝 I regularly write articles on [Medium](medium-link)
+- 📄 Know about my experiences [CV](cv-link)
+- 📫 Reach me by [email](puchkov.nik@mail.ru)
+- 🌍 I speak Russian, but know English a little bit.
